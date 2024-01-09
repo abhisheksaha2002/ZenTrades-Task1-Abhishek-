@@ -5,7 +5,11 @@ The JSON file contains 1000 records of products. Each product has the following 
 
 # Subcategory
 Title
+
 Price
+
 Popularity
+
 Task:
+
 Display the data in the presentation of your choice with Title, Price ordered based on the descending popularity.
